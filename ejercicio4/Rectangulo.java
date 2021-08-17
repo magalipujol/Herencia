@@ -45,7 +45,6 @@ public class Rectangulo implements calculosFormas {
 
     @Override
     public double calcularArea() {
-        // TODO add pi constant from calculosFormas
         return (this.base * this.altura);
     };
 }

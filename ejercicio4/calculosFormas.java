@@ -5,6 +5,5 @@ public interface calculosFormas {
 
     public double calcularArea();
 
-    // TODO uncomment 
-    public double pi = Math.PI;
+    public final double pi = Math.PI;
 }
